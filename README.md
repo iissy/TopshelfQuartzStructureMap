@@ -1,0 +1,2 @@
+# TopshelfQuartzStructureMap
+Topshelf + Quartz + StructureMap
