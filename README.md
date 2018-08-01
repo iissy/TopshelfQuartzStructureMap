@@ -1,3 +1,2 @@
 # TopshelfQuartzStructureMap
-Topshelf + Quartz + StructureMap
-This is [an example](https://www.hrefs.cn/article/Topshelf.Quartz.StructureMap "Title") inline link.
+[Topshelf + Quartz + StructureMap 原文文档](https://www.hrefs.cn/article/Topshelf.Quartz.StructureMap "hrefs.cn")
