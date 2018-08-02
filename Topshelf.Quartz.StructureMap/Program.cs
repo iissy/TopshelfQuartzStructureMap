@@ -50,6 +50,10 @@ namespace TopshelfQuartzStructureMap
                                                                     .Build())
                         );
                 });
+                c.RunAsLocalSystem();
+                c.SetDescription("myjob");
+                c.SetDisplayName("myjob");
+                c.SetServiceName("myjob");
             });
         }
     }
